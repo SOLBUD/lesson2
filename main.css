@@ -1,0 +1,33 @@
+.container{
+    background-color: green;
+    width: 100vw;
+    height: 90vh;
+    background-image: url("./297-230x230.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color:black;
+}
+
+h1{
+    font-weight: 700;
+}
+
+#square{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    margin: 100px 300px;
+    border: 10px solid brown;
+}
+
+a{
+    margin: 10px;
+}
+
+body nav{
+    float:right;
+}

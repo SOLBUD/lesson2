@@ -1,0 +1,5 @@
+body, body *{
+    margin: 0;
+    float: left;
+    box-sizing: border-box;
+}
